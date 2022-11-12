@@ -2,6 +2,7 @@
 ## Natal - Rio Grande do Norte
 ### 👀 Tenho conhecimento em
 - Visual Basic para Excel.
+- Python
 ### 🌱 Atualmente estou Aprendendo
 - HTML
 - CSS
