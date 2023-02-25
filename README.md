@@ -1,5 +1,5 @@
 # Olá, sou Adriano Duarte 👋
-## Natal - Rio Grande do Norte
+## Porto - Portugal
 ### 👀 Tenho conhecimento em
 - Visual Basic para Excel.
 - Python
