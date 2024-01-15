@@ -1,13 +1,13 @@
 # Olá, sou Adriano Duarte 👋
 ## Porto - Portugal
 ### 👀 Tenho conhecimento em
-- Visual Basic para Excel.
 - Python
+- SQL
+- SAP
+- Visual Basic para Excel.
 ### 🌱 Atualmente estou Aprendendo
-- HTML
 - CSS
 - JavaScript
-- Python
 ### 📫 Como me encontrar
 - Linkedin @adriano-duarte-5473663b
 
